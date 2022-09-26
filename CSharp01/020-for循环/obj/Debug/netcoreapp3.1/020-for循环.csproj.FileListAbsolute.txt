@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.exe
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.deps.json
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.dll
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\bin\Debug\netcoreapp3.1\020-for循环.pdb
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.dll
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.pdb
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp01\020-for循环\obj\Debug\netcoreapp3.1\020-for循环.csproj.AssemblyReference.cache

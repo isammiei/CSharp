@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "021-do while循环/1.0.0": {
+        "runtime": {
+          "021-do while循环.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "021-do while循环/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

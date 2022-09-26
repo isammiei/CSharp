@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.exe
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.deps.json
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.dll
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\bin\Debug\netcoreapp3.1\002-异常处理.pdb
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.dll
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.pdb
+D:\MyCodes\VisualStudio\CSharp02\002-异常处理\obj\Debug\netcoreapp3.1\002-异常处理.genruntimeconfig.cache

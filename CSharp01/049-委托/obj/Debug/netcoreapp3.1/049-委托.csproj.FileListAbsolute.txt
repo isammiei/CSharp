@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.exe
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.deps.json
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.dll
+D:\MyCodes\VisualStudio\CSharp01\049-委托\bin\Debug\netcoreapp3.1\049-委托.pdb
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.dll
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.pdb
+D:\MyCodes\VisualStudio\CSharp01\049-委托\obj\Debug\netcoreapp3.1\049-委托.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.exe
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.deps.json
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.dll
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\bin\Debug\netcoreapp3.1\027-循环嵌套.pdb
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.dll
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.pdb
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp01\027-循环嵌套\obj\Debug\netcoreapp3.1\027-循环嵌套.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.exe
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.deps.json
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.dll
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\bin\Debug\netcoreapp3.1\031-字符串.pdb
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.dll
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.pdb
+D:\MyCodes\VisualStudio\CSharp01\031-字符串\obj\Debug\netcoreapp3.1\031-字符串.genruntimeconfig.cache

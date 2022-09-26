@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.exe
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.deps.json
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.dll
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\bin\Debug\netcoreapp3.1\040-编程题.pdb
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.dll
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.pdb
+D:\MyCodes\VisualStudio\CSharp01\040-编程题\obj\Debug\netcoreapp3.1\040-编程题.genruntimeconfig.cache

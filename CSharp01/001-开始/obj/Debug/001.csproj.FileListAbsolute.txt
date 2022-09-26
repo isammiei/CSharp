@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudioCodes\CSharp01\001\bin\Debug\001.exe.config
+D:\MyCodes\VisualStudioCodes\CSharp01\001\bin\Debug\001.exe
+D:\MyCodes\VisualStudioCodes\CSharp01\001\bin\Debug\001.pdb
+D:\MyCodes\VisualStudioCodes\CSharp01\001\obj\Debug\001.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudioCodes\CSharp01\001\obj\Debug\001.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudioCodes\CSharp01\001\obj\Debug\001.exe
+D:\MyCodes\VisualStudioCodes\CSharp01\001\obj\Debug\001.pdb
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.exe.config
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.exe
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.pdb
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.exe
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.pdb

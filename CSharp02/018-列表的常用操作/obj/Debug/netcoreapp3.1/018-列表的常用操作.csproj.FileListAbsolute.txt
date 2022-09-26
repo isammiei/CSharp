@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.exe
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.deps.json
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.dll
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\bin\Debug\netcoreapp3.1\018-列表的常用操作.pdb
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.dll
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.pdb
+D:\MyCodes\VisualStudio\CSharp02\018-列表的常用操作\obj\Debug\netcoreapp3.1\018-列表的常用操作.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "010-子类的构造/1.0.0": {
+        "dependencies": {
+          "009-抽象类": "1.0.0"
+        },
+        "runtime": {
+          "010-子类的构造.dll": {}
+        }
+      },
+      "009-抽象类/1.0.0": {
+        "runtime": {
+          "009-抽象类.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010-子类的构造/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "009-抽象类/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.exe
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.deps.json
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.dll
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\bin\Debug\netcoreapp3.1\006-变量研究.pdb
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.dll
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.pdb
+D:\MyCodes\VisualStudio\CSharp01\006-变量研究\obj\Debug\netcoreapp3.1\006-变量研究.genruntimeconfig.cache

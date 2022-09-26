@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.exe
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.deps.json
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.dll
+D:\MyCodes\VisualStudio\CSharp01\003-变量\bin\Debug\netcoreapp3.1\003-变量.pdb
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.dll
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.pdb
+D:\MyCodes\VisualStudio\CSharp01\003-变量\obj\Debug\netcoreapp3.1\003-变量.genruntimeconfig.cache

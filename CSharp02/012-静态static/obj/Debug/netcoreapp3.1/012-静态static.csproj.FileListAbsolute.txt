@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.exe
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.deps.json
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.dll
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\bin\Debug\netcoreapp3.1\012-静态static.pdb
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.dll
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.pdb
+D:\MyCodes\VisualStudio\CSharp02\012-静态static\obj\Debug\netcoreapp3.1\012-静态static.genruntimeconfig.cache

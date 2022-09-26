@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.exe
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.deps.json
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.dll
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\bin\Debug\netcoreapp3.1\004-面向对象.pdb
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.dll
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.pdb
+D:\MyCodes\VisualStudio\CSharp02\004-面向对象\obj\Debug\netcoreapp3.1\004-面向对象.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.exe
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.deps.json
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.dll
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\bin\Debug\netcoreapp3.1\019-泛型.pdb
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.dll
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.pdb
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp02\019-泛型\obj\Debug\netcoreapp3.1\019-泛型.csproj.AssemblyReference.cache

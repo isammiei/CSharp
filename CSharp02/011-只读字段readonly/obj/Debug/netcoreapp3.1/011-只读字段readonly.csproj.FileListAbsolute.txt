@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.exe
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.deps.json
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.dll
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\bin\Debug\netcoreapp3.1\011-只读字段readonly.pdb
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.dll
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.pdb
+D:\MyCodes\VisualStudio\CSharp02\011-只读字段readonly\obj\Debug\netcoreapp3.1\011-只读字段readonly.genruntimeconfig.cache

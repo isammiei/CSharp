@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.exe
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.deps.json
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.dll
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\bin\Debug\netcoreapp3.1\020-MyList列表.pdb
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.dll
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.pdb
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp02\020-MyList列表\obj\Debug\netcoreapp3.1\020-MyList列表.csproj.AssemblyReference.cache

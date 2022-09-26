@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.exe
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.deps.json
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.dll
+D:\MyCodes\VisualStudio\CSharp01\037-函数\bin\Debug\netcoreapp3.1\037-函数.pdb
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.dll
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.pdb
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp01\037-函数\obj\Debug\netcoreapp3.1\037-函数.csproj.AssemblyReference.cache

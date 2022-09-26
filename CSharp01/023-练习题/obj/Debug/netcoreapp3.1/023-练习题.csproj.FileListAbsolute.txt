@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.exe
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.deps.json
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.dll
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\bin\Debug\netcoreapp3.1\023-练习题.pdb
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.dll
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.pdb
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.genruntimeconfig.cache
+D:\MyCodes\VisualStudio\CSharp01\023-练习题\obj\Debug\netcoreapp3.1\023-练习题.csproj.AssemblyReference.cache

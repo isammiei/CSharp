@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.exe
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.deps.json
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.dll
+D:\MyCodes\VisualStudio\CSharp02\013-接口\bin\Debug\netcoreapp3.1\013-接口.pdb
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.dll
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.pdb
+D:\MyCodes\VisualStudio\CSharp02\013-接口\obj\Debug\netcoreapp3.1\013-接口.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "009-关系运算符和布尔类型/1.0.0": {
+        "runtime": {
+          "009-关系运算符和布尔类型.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "009-关系运算符和布尔类型/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

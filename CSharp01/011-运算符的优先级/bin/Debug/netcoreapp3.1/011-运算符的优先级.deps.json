@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "011-运算符的优先级/1.0.0": {
+        "runtime": {
+          "011-运算符的优先级.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011-运算符的优先级/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

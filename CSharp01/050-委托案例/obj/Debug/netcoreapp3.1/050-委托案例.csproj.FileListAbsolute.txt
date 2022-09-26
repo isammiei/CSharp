@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.exe
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.deps.json
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.dll
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\bin\Debug\netcoreapp3.1\050-委托案例.pdb
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.dll
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.pdb
+D:\MyCodes\VisualStudio\CSharp01\050-委托案例\obj\Debug\netcoreapp3.1\050-委托案例.genruntimeconfig.cache

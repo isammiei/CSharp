@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.exe
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.deps.json
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.dll
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.pdb
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.dll
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.pdb
+D:\MyCodes\VisualStudio\CSharp01\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.genruntimeconfig.cache

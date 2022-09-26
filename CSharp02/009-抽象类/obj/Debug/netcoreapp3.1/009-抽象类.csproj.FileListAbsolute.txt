@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.exe
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.deps.json
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.dll
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\bin\Debug\netcoreapp3.1\009-抽象类.pdb
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.dll
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.pdb
+D:\MyCodes\VisualStudio\CSharp02\009-抽象类\obj\Debug\netcoreapp3.1\009-抽象类.genruntimeconfig.cache

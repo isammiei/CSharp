@@ -1,0 +1,7 @@
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.exe.config
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.exe
+D:\MyCodes\VisualStudio\CSharp01\001\bin\Debug\001.pdb
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001-开始.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001-开始.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.exe
+D:\MyCodes\VisualStudio\CSharp01\001\obj\Debug\001.pdb

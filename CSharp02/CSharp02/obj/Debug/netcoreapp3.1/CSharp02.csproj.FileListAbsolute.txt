@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.exe
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.deps.json
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.dll
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\bin\Debug\netcoreapp3.1\CSharp02.pdb
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.dll
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.pdb
+D:\MyCodes\VisualStudio\CSharp02\CSharp02\obj\Debug\netcoreapp3.1\CSharp02.genruntimeconfig.cache

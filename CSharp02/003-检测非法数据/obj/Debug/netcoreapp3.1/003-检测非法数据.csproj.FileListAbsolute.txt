@@ -1,0 +1,14 @@
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.exe
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.deps.json
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.dll
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\bin\Debug\netcoreapp3.1\003-检测非法数据.pdb
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.csproj.AssemblyReference.cache
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.dll
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.pdb
+D:\MyCodes\VisualStudio\CSharp02\003-检测非法数据\obj\Debug\netcoreapp3.1\003-检测非法数据.genruntimeconfig.cache

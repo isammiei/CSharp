@@ -1,0 +1,13 @@
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.exe
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.deps.json
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.runtimeconfig.json
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.runtimeconfig.dev.json
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.dll
+D:\MyCodes\VisualStudio\CSharp02\005-属性\bin\Debug\netcoreapp3.1\005-属性.pdb
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.AssemblyInfoInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.AssemblyInfo.cs
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.csproj.CoreCompileInputs.cache
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.dll
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.pdb
+D:\MyCodes\VisualStudio\CSharp02\005-属性\obj\Debug\netcoreapp3.1\005-属性.genruntimeconfig.cache
